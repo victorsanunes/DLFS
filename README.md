@@ -6,5 +6,5 @@ Este repositório contém todo o código-fonte do curso __Manual Prático do Dee
 
 Ao longo do curso as implementações foram feitas e este repositório contém todas elas. 
 
-O notebook com as principais implementações é o [Rede Neural.ipynb]("Rede Neural.ipynb")
+O notebook com as principais implementações é o  [Rede Neural.ipynb](../blob/master/"Rede Neural.ipynb")
 
